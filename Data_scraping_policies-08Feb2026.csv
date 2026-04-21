@@ -1,0 +1,256 @@
+Platform Name,Company Ticker,Platform Type,Base URL,Policy URL,Text
+Facebook,META,Social Network,https://www.facebook.com/,https://www.facebook.com/legal/automated_data_collection_terms,"Automated Data Collection Terms
+Effective October 7, 2024
+1. These Automated Data Collection Terms (“Terms”) between you and Meta Platforms, Inc. (“Meta” or “we”) govern your Use of data collected from Meta Company Products through Automated Data Collection (“Collected Data”).
+
+2. You will not engage in Automated Data Collection without first obtaining Meta’s express written permission or in any manner that is not explicitly authorized by Meta. The term of these Terms will begin on the date you accept them or otherwise engage in Automated Data Collection of Meta Company Products, and will continue until you certify to us that you have deleted and are no longer conducting Automated Data Collection or Using Collected Data, Meta revokes such permission, or these Terms are terminated as described below.
+
+3. Meta’s express written permission to engage in the Automated Data Collection is subject to your agreement to abide by these Terms, which incorporate by reference the Meta Terms and Policies. For avoidance of doubt, acceptance of these Terms alone does not constitute the required written permission to conduct Automated Data Collection; such permission must be obtained separately through Meta’s formal authorization process. Notwithstanding any such permission that Meta has granted, Meta reserves the right to implement measures to restrict your Automated Data Collection and Use of Collected Data at any time for any reason.
+
+4. Collected Data. For all Automated Data Collection, you agree that:
+The Collected Data shall only be Used for the purpose of (i) providing results for your Search Engine, or (ii) displaying previews of Meta URLs to your users, and (iii) for other purposes for which you have received Meta’s express written permission to Use Collected Data. All other Uses are prohibited, including, but not limited to, transferring, selling, licensing or sublicensing Collected Data and data derived from Collected Data to any third party, including your subsidiaries and affiliates. Prohibited uses include licensing of search indices and caches and commercial search services that provide substantially unlimited queries to a service that includes data derived from Meta Company Products.
+
+You represent, warrant, and covenant that you:
+
+Have established, implemented, and will maintain a privacy and security program, including, but not limited to, relevant policies, standards, and practices that, in Meta’s sole discretion, will safeguard Collected Data (“Privacy and Security Program”) by establishing and maintaining systems reasonably designed to:
+
+Ensure the security and integrity of Collected Data;
+Protect against any anticipated threats or hazards to the security and integrity of Collected Data, including, but not limited to, cyberattacks, brute force attacks, phishing, social engineering, malware, ransomware;
+Protect against any actual or suspected unauthorized processing, loss, or acquisition of any Collected Data; and
+Ensure the proper disposal of Collected Data, as determined by Meta in its sole discretion.
+
+Have implemented appropriate technical mitigations to ensure your Automated Data Collection is conducted in a manner designed to protect the integrity and security of Collected Data and will not interfere with the operation of the applicable Meta Company Products. Such mitigations may include, but are not limited to, rate limiting, technical and operational controls, monitoring and detection, and incident response management.
+
+You will comply with Meta’s robots.txt protocols, page header tags, and similar opt-out protocols that we implement.
+
+You will only use IP addresses, user-agent strings, and other identifiers that identify your services.
+
+For Personal Data Used within Collected Data:
+
+You will make no attempt to perform Automated Data Collection of Personal Data that is not Publicly Available Personal Data.
+
+You will comply with the Data Protection Addendum terms available at https://www.facebook.com/legal/terms/Privacy (or a successor location) (“DPA”). For purposes of the DPA, you shall act as a “Controller” and:
+
+Categories of data subjects are the Users who visit, access, use, or otherwise interact with Meta Company Products on which you are authorized to perform Automated Data Collection;
+
+Categories of Personal Data is any Publicly Available Personal Data collected through your Automated Data Collection, which may include profile information, photos and videos, User posts, location information, and communications between Users;
+
+""Frequency of the transfer"" is on a continuous basis to the extent required to fulfill the purpose outlined of these Terms;
+
+Nature and purpose of the data transfer(s) is the facilitation of these Terms; and
+
+Period for which Personal Data will be retained shall be until your permitted Automated Data Collection and legally valid Use of such Publicly Available Personal Data has concluded, after such time you will promptly delete all such Publicly Available Personal Data.
+
+5. Compliance Review Rights and Suspension and Termination of These Terms
+Review. You agree that you will ensure that you are in compliance with these Terms, and that we may review your Privacy and Security Program and your Use of Collected Data from time to time, at our sole discretion. You will cooperate with our reviews and provide any information we request.
+
+Regular Monitoring. You agree that we, or at our sole discretion, third-party professionals working on our behalf (including auditors, attorneys, consultants, and/or computer forensics analysts) (collectively, “Third-Party Auditors”), may conduct regular monitoring of your Use of Collected Data as well as implementation of technical and operational measures to protect Collected Data.
+
+Auditing Rights.
+
+You will keep and maintain complete and accurate books and records in connection with your Use of Collected Data for a period of no less than one (1) year following the expiration or termination of these Terms or for such longer period as may be required under Applicable Law (the “Audit Period”). During the Audit Period, we or Third-Party Auditors may conduct audits or inspections (each an “Audit”) to ensure that your Use of Collected Data is and has been in compliance with these Terms.
+
+Audits will be conducted during normal business hours after providing you with at least 10 business days’ written notice (email will suffice), but we may determine in our sole discretion that we require more immediate access.
+
+You will cooperate with the Audits, including by (1) providing all necessary physical and remote access to your systems and records in connection with the Use of Collected Data, and (2) providing information and assistance as reasonably requested (including making your personnel who are knowledgeable about your Use of Collected Data available for our questioning).
+
+You will remedy any non-compliance with these Terms revealed by an Audit as soon as reasonably practicable (as we determine based on the facts and circumstances), after which we may conduct follow-up Audits to ensure proper remediation of the noncompliance.
+
+If an Audit reveals any non-compliance with these Terms, then you will reimburse us for all of our reasonable costs and expenses associated with conducting the Audit and any related follow-up Audits.
+
+Notwithstanding anything to the contrary, nothing in these Terms limits any other rights or remedies we may have by law, in equity, under these Terms.
+
+Certifications. From time to time, we may request information, certifications, and attestations relating to your Use of Collected Data, which you will provide to us in the requested time frame and form. This may include certifying your compliance with these Terms. All such certifications and attestations must be provided by an authorized representative of yours after you have conducted a reasonable investigation.
+
+Suspension and Termination
+
+We may take enforcement action against you if we believe, in our sole discretion, that:
+
+You have not responded in a timely manner to our requests related to monitoring or auditing;
+
+You have violated or may have violated these Terms or that your Automated Data Collection and/or Use of Collected Data is negatively impacting Meta, Meta Company Products, or Users;
+
+It is needed to comply with Applicable Laws or regulations or otherwise required or requested by a court order or governmental authority; or
+
+It is needed to protect Meta from legal or regulatory liability.
+
+We may take enforcement action at any time, including while we investigate you, with or without notice to you. Enforcement can be both automated and manual. It can include, but is not limited to, revoking your permission to engage in Automated Data Collection, requiring you to stop Using Collected Data, requiring you to delete Collected Data, and any other action we consider appropriate, including terminating other agreements with you or your ability to use Meta Company Products.
+
+6. Indemnification. In addition to and without limiting the effect of the “Indemnification” Section in our Meta Commercial Terms, if anyone brings a claim, cause of action, or dispute against Meta related to your Use of Collected Data from Meta, you will indemnify and hold Meta harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action, or dispute.
+
+7. General
+Survival. Notwithstanding anything to the contrary in the Meta Terms and Policies, these Terms will survive any expiration or termination of these Terms and continue to apply to any of your Use of Collected Data for so long as you continue to Use such Collected Data or any data derived from such Collected Data.
+
+Severability & Waiver. If any portion of these Terms is found to be unenforceable, then that portion will be limited to the minimum extent necessary to remain enforceable or, if necessary, severed and the remaining portions will remain in full force and effect. Any delay or failure by Meta to enforce any of its rights under these Terms will not be deemed a waiver.
+
+Disclaimer of Warranties. Except as expressly provided in these Terms, neither party makes any representations or warranties, express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+Entire Agreement. These Terms and any Meta Terms and Policies incorporated herein constitute the entire understanding between the parties with respect to its subject matter and supersedes all prior and contemporaneous agreements, whether written or oral, relating thereto.
+
+Conflicts. Notwithstanding anything to the contrary in the Meta Terms and Policies or DPA, to the extent there is a conflict or inconsistency between these Terms, the Meta Terms and Policies, or the DPA, the following order of precedence shall apply to determine the term(s) that govern (unless such term(s) contradict a requirement under Applicable Law as defined in the DPA in which case such requirement shall prevail): (i) the DPA; (ii) these Terms; and (iii) the Meta Terms and Policies.
+
+Amendment. Meta may need to update these Terms from time to time, including to accurately reflect or comply with Applicable Law. Such update shall be effective on the Last Updated date. Meta shall use commercially reasonable efforts to provide at least thirty (30) days’ prior notice to you of any material updates to these Terms. While these Terms are in effect, you agree to review and comply with the latest version of these Terms, and you waive any objection to the means and manner of your acceptance of these Terms that may be specified in or required by the Meta Terms and Policies.
+
+8. Definitions
+”Affiliate,” ”Applicable Laws,” Controller,” “Personal Data,” and “Processing” shall have the same definitions as those in the DPA.
+
+“Automated Data Collection,” for purposes of these Terms, refers to the collection of data from Meta Company Products via the use of automated or programmatic tools capable of navigating or indexing the surface-layer of the World Wide Web. These tools may include but are not limited to web scrapers, bots, robots, spiders, crawlers, user-agents, and other automated or programmatic mechanisms designed to access, collect, or retrieve data or content directly from web pages or applications.
+
+“Meta” includes, as applicable, Meta Platforms, Inc. (formerly Facebook, Inc.), Meta Platforms Ireland Limited (formerly Facebook Ireland Limited), or any Affiliate of Meta Platforms, Inc.
+
+“Meta Company Products” shall have the same definition as those applied in the Facebook Terms of Service .
+
+“Meta Terms and Policies” shall mean all terms, agreements, contracts, written instruments, or policies to which you agree when performing and/or that apply to the Meta Company Product(s) from which you perform Automated Data Collection or activities related thereto. This may include any commercial agreement that incorporates by reference these Terms and any other terms incorporated into such document, as well as the Meta Terms of Service, the Instagram Terms of Use, the Meta Commercial Terms, the Business Tools Terms, and any Meta Company Product terms that are applicable.
+
+“Publicly Available Personal Data” means Personal Data that a User has made available to the general public and has not restricted that Personal Data with a privacy setting in any Meta Company Product.
+
+""Search Engine"" means a program, algorithm(s), or other technology which analyzes text, images, videos, and other data, sorts and organizes such data, creates an index of accessible data, and, after receiving a particular search request, locates material accessible in the database, and presents the results of the search.
+
+“User” means the end user of a Meta Company Product (whether a person or an entity).
+
+""Use"" means any operation or set of operations which is performed on Collected Data or on sets of Collected Data, whether or not by automated means, including access, obtaining, collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure, Processing, transmission, dissemination, making available, alignment, combination, restriction, erasure or destruction.
+"
+Instagram,META,Social Network,https://www.instagram.com/,https://help.instagram.com/740480200552298/,"Unauthorized scraping involves automation to collect information in violation of our Terms of Service. Unauthorized scraping is often done in a way that disguises the activity so that it blends in with ordinary usage.
+Our Terms of Use don’t allow you to attempt to create accounts, access or collect information in unauthorized ways. "
+WhatsApp,META,Social Network,https://web.whatsapp.com/,https://faq.whatsapp.com/434518851968943,"Harvesting information at scale, also known as scraping, through the use of an automated tool for any unpermitted purpose violates the WhatsApp Terms of Service. Scrapers might attempt to search for and save users' information. This can include phone numbers, user profile pictures, and statuses from the WhatsApp platform."
+Threads,META,Social Network,https://www.threads.com/,https://help.instagram.com/769983657850450,"You agree that you shall not, nor shall you cause or permit any third party to do, or attempt to do any of the following in connection with your use of the Threads Service: (i) exploit the Threads Service for any commercial purpose; (ii) introduce any viruses, trojan horses, worms, logic bombs or other materials that are malicious or technologically harmful into our systems; (iii) circumvent, remove, alter, deactivate, degrade or thwart any technological measure or content protections of the Threads Service; and (iv) use any robot, spider, crawlers, scraper or other automatic device, process, software or queries that intercepts, “mines”, scrapes, extracts or otherwise accesses the Threads Service to monitor, extract, copy or collect information or data from the Threads Service, or engage in any manual process to do the same."
+Google,GOOGL,Search Engine,https://www.google.com/,https://policies.google.com/terms?hl=en-US,"Without limiting any of our other rights, Google may suspend or terminate your access to the services or delete your Google Account if any of these things happen:
+
+- you materially or repeatedly breach these terms, service-specific additional terms or policies
+- we’re required to do so to comply with a legal requirement or a court order
+- we reasonably believe that your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you"
+Youtube,GOOGL,Digital Media Platform,https://youtube.com/,https://www.youtube.com/t/terms?hl=en&override_hl=1,"The following restrictions apply to your use of the Service. You are not allowed to:
+...
+3. access the Service using any automated means (such as robots, botnets or scrapers) except (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; or (b) with YouTube’s prior written permission; "
+Google Maps,GOOGL,Location-based Service,https://www.google.com/maps,https://cloud.google.com/maps-platform/terms,"3.2.3 Restrictions Against Misusing the Services.
+
+(a) No Scraping. Customer will not export, extract, or otherwise scrape Google Maps Content for use outside the Services. For example, Customer will not: (i) pre-fetch, index, store, reshare, or rehost Google Maps Content outside the services; (ii) bulk download Google Maps tiles, Street View images, geocodes, directions, distance matrix results, roads information, places information, elevation values, and time zone details; (iii) copy and save business names, addresses, or user reviews; or (iv) use Google Maps Content with text-to-speech services."
+Google Play,GOOGL,Digital Media Platform,https://play.google.com/,https://play.google.com/intl/en-US_us/about/play-terms/index.html,"Unauthorized Access to Accounts. You must keep your account details secure and must not share them with anyone else. You must not collect or harvest any personal data of any user of Google Play or of any user of other Google Services via Google Play, including account names."
+Waze,GOOGL,Location-based Service,https://www.waze.com/,https://www.waze.com/en/legal/tos,"When using the Service or the Site you may not engage in scraping, data mining, harvesting, screen scraping, data aggregating, and indexing. You agree that you will not use any robot, spider, scraper or other automated means to access the Site or the Service’s database for any purpose without the express prior written permission of Waze."
+LinkedIn,MSFT,Social Network,http://linkedin.com/,https://www.linkedin.com/help/linkedin/answer/a1341387/prohibited-software-and-extensions?lang=en,"LinkedIn is committed to keeping its members' data safe and its website free from fraud and abuse. In order to protect our members' data and our website, we don't permit the use of any third party software, including ""crawlers"", bots, browser plug-ins, or browser extensions that scrape, modify the appearance of, or automate activity on LinkedIn's website. We also don’t permit the use of fake accounts or fake engagement on LinkedIn’s website, including any tools or services that try to manipulate LinkedIn’s content algorithms. All of these tools violate the User Agreement, including, but not limited to, the following prohibitions listed in Section 8.2: 
+
+Develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins and add-ons or any other technology) to scrape or copy the Services, including profiles and other data from the Services;
+Use bots or other unauthorized automated methods to access the Services, add or download contacts, send or redirect messages, create, comment on, like, share, or re-share posts, or otherwise drive inauthentic engagement;
+Overlay or otherwise modify the Services or their appearance (such as by inserting elements into the Services or removing, covering, or obscuring an advertisement included on the Services); 
+Copy, use, display or distribute any information (including content) obtained from the Services, whether directly or through third parties (such as search tools or data aggregators or brokers), without the consent of the content owner (such as LinkedIn for content it owns);
+Override any security feature or bypass or circumvent any access controls or use limits of the Services (such as search results, profiles, or videos);
+Deep-link to our Services for any purpose other than to promote your profile or a Group on our Services, without LinkedIn’s consent. 
+Interfere with the operation of, or place an unreasonable load on, the Services (e.g., spam, denial of service attack, viruses, gaming algorithms).
+Any member who uses tools for such purposes is in violation of the User Agreement. This means that they risk having their accounts restricted or shut down. They also risk the possibility that any prohibited tools they’re using may become non-operational without notice. In order to maintain LinkedIn as a safe and trusted platform to facilitate authentic interactions between professionals and to keep our members' data safe, we're constantly working to improve our technical measures and defenses against the operation of scraping, automation, and other tools that abuse LinkedIn's platform. "
+GitHub,MSFT,Developer Infrastructure,https://github.com/,https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies,"You may use information from our Service for the following reasons, regardless of whether the information was scraped, collected through our API, or obtained otherwise:
+
+Researchers may use public, non-personal information from the Service for research purposes, only if any publications resulting from that research are open access.
+Archivists may use public information from the Service for archival purposes.
+Scraping refers to extracting information from our Service via an automated process, such as a bot or webcrawler. Scraping does not refer to the collection of information through our API. Please see Section H of our Terms of Service for our API Terms.
+
+You may not use information from the Service (whether scraped, collected through our API, or obtained otherwise) for spamming purposes, including for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards.
+
+Your use of information from the Service must comply with the GitHub Privacy Statement."
+Bing,MSFT,Search Engine,https://www.bing.com/,https://www.microsoft.com/en-us/servicesagreement,"3. Code of Conduct. You are accountable for your conduct and content when using the Services.
+
+a. By agreeing to these Terms, you’re agreeing that, when using the Services, including AI services that make decisions, or take actions, autonomously or with varying levels of human intervention, you will follow these rules:
+...
+vi. Don’t circumvent any restrictions on access to, usage, or availability of the Services (e.g., attempting to “jailbreak” an AI system or impermissible scraping)."
+Amazon,AMZN,Marketplace,https://www.amazon.com/,https://www.amazon.com/gp/help/customer/display.html/?nodeId=GLSBYFE9MGKKQXXM,"Subject to your compliance with these Conditions of Use and any Service Terms, and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Amazon Services. This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. "
+AWS,AMZN,Developer Infrastructure,https://aws.amazon.com/,https://aws.amazon.com/service-terms/,"82.4. For Geolocation Providers other than Open Data, you may not:
+
+a. Scrape, systematically collect, duplicate, store, or cache the data provided to you from Amazon Location Service (e.g., map tiles, forward and reverse geocodes, routes, drive times/isochrones, and other data) (collectively, “Location Data”), including for the purpose of avoiding use of Amazon Location Service, except that you may store or cache:
+
+(i) route results for up to 30 days when you use HERE or Esri as your Geolocation Provider (other than as prohibited in Section 82.5.a),
+
+(ii) geocoding and reverse-geocoding results (other than as prohibited in Section 82.5.a) when you indicate the result will be stored in the API parameter, or
+
+(iii) any Location Data to comply with legal or regulatory requirements."
+IMDb,AMZN,Consumer Intelligence,https://www.imdb.com/,https://www.imdb.com/conditions,"Robots and Screen Scraping: You may not use data mining, robots, screen scraping, or similar data gathering and extraction tools on this site, except with our express written consent as noted below."
+Goodreads,AMZN,Consumer Intelligence,https://www.goodreads.com/,https://www.goodreads.com/about/terms,"Subject to your compliance with this Agreement and your payment of any applicable fees, we grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Service. This license does not include any resale or commercial use of any part of the Service, or its contents; any collection and use of any book listings, descriptions, reviews or other material included in the Service; any derivative use of any part of the Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. "
+Twitch,AMZN,Social Network,https://www.twitch.tv/,https://legal.twitch.com/en/legal/terms-of-service/,"YOU AGREE NOT TO violate any law, contract, intellectual property, or other third-party right; not to commit a tort, and that you are solely responsible for your conduct while on the Twitch Services.
+
+You agree that you will comply with these Terms of Service and Twitch’s Community Guidelines and will not:
+...
+xi. access any website, server, software application, or other computer resource owned, used, and/or licensed by Twitch, including but not limited to the Twitch Services, by means of any robot, spider, scraper, crawler, or other automated means for any purpose, or bypass any measures Twitch may use to prevent or restrict access to any website, server, software application, or other computer resource owned, used, and/or licensed by Twitch, including but not limited to the Twitch Services;"
+Apple Media Services,AAPL,Digital Media Platform,https://www.apple.com/,https://www.apple.com/legal/internet-services/itunes/,"- You may not use any software, device, automated process, or any similar or equivalent manual process to scrape, copy, or perform measurement, analysis, or monitoring of, any portion of the Content or Services."
+Netflix,NFLX,Digital Media Platform,https://www.netflix.com/,https://help.netflix.com/legal/termsofuse?locale=en-GB,"4.6. You agree to use the Netflix service, including all features and functionalities associated therewith, in accordance with all applicable laws, rules and regulations, or other restrictions on use of the service or content therein. Except as explicitly authorized by us, you agree not to:
+...
+(iii) use any robot, spider, scraper or other automated means to access the Netflix service;"
+Adobe,ADBE,Digital Media Platform,https://www.adobe.com/,https://www.adobe.com/legal/terms.html,"You must use the Services and Software responsibly and not misuse the Services and Software. For example, you must not:
+...
+6.18 use any data mining or similar data gathering and extraction methods in connection with the Services and Software, including data scraping for machine learning or other purposes;"
+Slack,CRM,Developer Infrastructure,https://api.slack.com/apps,https://slack.com/terms-of-service/api,"Data Access API and Real-Time Search API
+The Data Access API and Real-Time Search APIs are intended to facilitate real-time search and data access. Your Application’s use of these APIs should be transparent to and reasonably expected by users of the Services; background data collection or scraping for data unrelated to user queries is prohibited. When using these APIs as a third-party Application provider, you may not create persistent copies, archives, indexes, or long-term data stores of other organizations’ API Data. Limited and temporary handling, caching, or storage of other organizations’ API Data retrieved is allowed only to the extent it is essential for the immediate operation, performance, or delivery of your Application, or as required by law. Such data must be minimized and deleted promptly once those specific needs are met, and may not be used for product improvements."
+Peacock,CMCSA,Digital Media Platform,https://www.peacocktv.com/,https://www.peacocktv.com/terms,"• You may not access, search and/or collect data from, or attempt to access, search and/or collect data from, the Peacock Service by any means (whether automated or manual) other than through our currently available, published interfaces that are made available to you by us, unless Peacock has given its express written authorization to do so. Without limiting the foregoing, (i) you may not use any robots, spiders, crawlers, devices, scripts, or other data gathering or extraction software and/or tools, whether automated or manual, to access, acquire, copy, monitor, scrape, data mine, or aggregate any Content or any portion of the Peacock Service for any purpose, and (ii) you may not use any Content for the purpose of directly or indirectly training, developing, or improving a software tool or service, including any artificial intelligence tool, model, system, or platform."
+Booking,BKNG,Hospitality Platform,https://www.booking.com/,https://www.booking.com/content/terms.html,"2. Whether or not you have a commercial purpose, you’re not allowed to access, monitor, copy, scrape/crawl, download, reproduce, or otherwise use anything on our Platform using any robot, spider, scraper, other automated means, or automated assistants (including, but not limited to, those that operate by interacting with or otherwise making use of your browser, such as AI-powered assistants) for any purpose without the prior, express written permission of Booking.com. For the avoidance of doubt, Booking.com does not authorize the use of automated means or automated assistants (including, but not limited to, those that operate by interacting with or otherwise making use of your browser, such as AI-powered assistants) to make bookings or reservations using anything on our Platform without the prior, express written permission of Booking.com."
+OpenTable,BKNG,Hospitality Platform,https://www.opentable.com/,https://www.opentable.com/c/legal/terms-and-conditions/,"13. Use Restrictions. The Services and OpenTable Content are offered solely for User’s personal use for the purposes described in this Agreement. Any and all other uses are prohibited. OpenTable expressly reserves all its rights and remedies under applicable laws (including state, federal, and provincial/territorial laws). OpenTable reserves the right, in its sole discretion, to refuse service, terminate Accounts, remove or edit content, cancel reservations, or deny access to the Services. You agree not to (and not to allow any third party to): (1) use any deep-link, robot, spider, scraper, generative AI or other AI technology including, but not limited to, those that operate by interacting with or otherwise making use of your browser, such as automated assistants or other automatic or manual device, process, or means to access, copy, search, or monitor any portion of the Services or OpenTable Content, except as expressly authorized by OpenTable; "
+Expedia,EXPE,Hospitality Platform,https://www.expedia.com/,https://www.expedia.com/lp/b/terms-of-service,"You also agree not to:
+...
+
+access, monitor or copy any content on our Service using any robot, spider, scraper or other automated means or any manual process"
+Hotels.com ,EXPE,Hospitality Platform,https://www.hotels.com/,https://www.hotels.com/lp/b/terms-of-service,"You also agree not to:
+...
+access, monitor or copy any content on our Service using any robot, spider, scraper or other automated means or any manual process"
+Vrbo,EXPE,Hospitality Platform,https://www.vrbo.com/,https://www.vrbo.com/lp/b/terms-of-service,"You also agree not to:
+...
+access, monitor or copy any content on our Service using any robot, spider, scraper or other automated means or any manual process"
+Trivago,TRVG,Hospitality Platform,https://www.trivago.com/,https://www.trivago.com/en-US/st/terms-of-service,"Additionally, you agree not to:
+...
+access, monitor or copy any content or information of our Platform using any robot, spider, scraper or other automated means or any manual process for any purpose without our express written permission;"
+Airbnb,ABNB,Hospitality Platform,https://www.airbnb.com/,https://www.airbnb.com/help/article/2908,"11.1 Rules. 
+You must follow these rules and must not help or induce others to break or circumvent these rules.
+...
+Do not scrape, hack, reverse engineer, compromise or impair the Airbnb Platform
+Do not use bots, crawlers, scrapers, or other automated means to access or collect data or other content from or otherwise interact with the Airbnb Platform.
+Do not hack, avoid, remove, impair, or otherwise attempt to circumvent any security or technological measure used to protect the Airbnb Platform or Content.
+Do not decipher, decompile, disassemble, or reverse engineer any of the software or hardware used to provide the Airbnb Platform.
+Do not take any action that could damage or adversely affect the performance or proper functioning of the Airbnb Platform."
+Esty,ETSY,Marketplace,https://www.etsy.com/,https://www.etsy.com/legal/terms-of-use,"C. Don’t Steal Our Stuff. You agree not to crawl, scrape, or spider any page of the Services or to reverse engineer or attempt to obtain the source code of the Services (including both Etsy Intellectual Property and Seller Content) without our express permission. If you want to use our API, please follow our API Terms of Use."
+eBay,EBAY,Marketplace,https://www.ebay.com/,https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259,"In connection with using or accessing our Services you agree to comply with this User Agreement, our policies, our terms, and all applicable laws, rules, and regulations, and you will not:
+...
+use any robot, spider, scraper, data mining tools, data gathering and extraction tools, or other automated means (including, without limitation buy-for-me agents, LLM-driven bots, or any end-to-end flow that attempts to place orders without human review) to access our Services for any purpose, except with the prior express permission of eBay;"
+Zillow,Z,Location-based Service,https://www.zillow.com/,https://www.zillow.com/corporate/terms-of-use/,"5. Prohibited Use. BY USING THE SERVICES, YOU AGREE NOT TO:
+...
+conduct automated queries (including screen and database scraping, spiders, robots, crawlers, bypassing “captcha” or similar precautions, or any other automated activity with the purpose of obtaining information from the Services) on the Services;"
+Tinder,MTCH,Social Network,https://tinder.com/,https://policies.tinder.com/terms/intl/en/,"You agree that you will not:
+...
+16. Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, ""data mine,"" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents;"
+Match.com ,MTCH,Social Network,https://www.match.com/,https://www.match.com/masp/en-us/terms,"You agree that you will not:
+...
+Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, ""data mine,"" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents;"
+OkCupid,MTCH,Social Network,https://okcupid.com/,https://okcupid-app.zendesk.com/hc/en-us/articles/23941864418203-Terms-Conditions,"You agree that you will not: 
+...
+Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, ""data mine,"" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents; "
+Hinge,MTCH,Social Network,https://hinge.co/,https://hinge.co/terms,"You agree that you will not:
+...
+Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, ""data mine,"" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents;"
+Plenty of Fish,MTCH,Social Network,https://www.pof.com/,https://www.pof.com/terms/,"You agree that you will not:
+...
+Use any robot, crawler, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, ""data mine,"" or in any way reproduce or circumvent the navigational structure or presentation of our Services or its contents;"
+Uber Developers,UBER,Developer Infrastructure,uber.com,https://developer.uber.com/docs/riders/terms-of-use,"In addition, you shall not, and shall not direct, encourage, or assist any other party to, access or use the Uber API Services to: 
+...
+parse or scrape any of Uber’s data; in each case other than as explicitly permitted by Uber in writing. You will not share with a third party (or enable a third party to use) any operational, technical or other data obtained through the use of the Uber API Services in any manner that is competitive to Uber, including, without limitation, in connection with any application, website or other product or service that also includes, features, endorses, or otherwise supports in any way a third party that provides services competitive to Uber’s products and services."
+Pinterest,PINS,Social Network,https://www.pinterest.com/,https://policy.pinterest.com/en/terms-of-service,"In using Pinterest, you agree not to scrape, collect, search, copy or otherwise access data or content from Pinterest in unauthorized ways, such as by using automated means (without our express prior permission), or access or attempt to access data you do not have permission to access."
+Snapchat,SNAP,Social Network,https://www.snapchat.com/,https://www.snap.com/terms,"That means, among other things, you may not do, attempt to do, enable, or encourage anyone else to do, any of the following and doing so may result in us terminating or suspending your access to the Services:
+...
+use any robot, spider, crawler, scraper, script, software, or other automated or semi-automated means, processes or interfaces to access, scrape, extract or copy the Services, including any user data, content or other data contained in the Services;"
+Reddit,RDDT,Social Network,https://www.reddit.com/,https://redditinc.com/policies/user-agreement,"When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:
+...
+Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or"
+Walmart,WMT,Marketplace,https://www.walmart.com/,https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0,"In connection with the Walmart Sites, you will not:
+...
+Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine” or otherwise gather any Materials, or reproduce or circumvent the navigational structure or presentation of the Walmart Sites, without Walmart’s express prior written consent."
+Target,TGT,Marketplace,https://www.target.com/,https://www.target.com/c/terms-conditions/-/N-4sr7l,"Whether on behalf of yourself or on behalf of any third party, YOU MAY NOT:
+...
+Make any use of data extraction, scraping, mining or other data gathering tools, or create a database by systematically downloading or storing Site content, or otherwise scrape, collect, store or use any Content, account information, product listings, descriptions, prices or images, except pursuant to the limited license granted by these Terms & Conditions;"
+Home Depot,HD,Marketplace,https://www.homedepot.com/,https://www.homedepot.com/c/Terms_of_Use,"Acting as a reseller, which is defined as a user which purchases products with the intention of selling them rather than using them. Reseller activities include, but are not limited to: ... (iii) extracting, scraping, mining, copying or otherwise gathering information from this Site in connection with your sale or another party’s sale of products (whether purchased from us or another seller) through any channel to downstream customers. Purchasing a product that will be used or consumed as part of a home improvement or construction project performed for another person does not constitute a reseller activity. We reserve the right to prohibit purchases of products to resellers and/or to reject a tax-exempt application from resellers."
+Costco,COST,Marketplace,https://www.costco.com/,https://www.costco.com/terms-and-conditions-of-use.html,"Costco grants you a limited license to make personal use only of the Sites. Such grant does not include, without limitation:
+...
+(f) use of any data mining, bots, spiders, automated tools or similar data gathering and extraction methods, directly or indirectly, on the Site Materials or to collect any information from the Sites or any other user of the Sites. Except as noted above, you are not conveyed any right or license by implication, estoppel, or otherwise in or under a patent, trademark, copyright, or proprietary right of Costco or any third party. You may not use any meta tags or any other “hidden text” utilizing Costco's name, trademark, or product name without our express written consent. “Site Materials” means all materials on the Sites, including, without limitation, trademarks (as specifically defined in these Site Terms), design, product description, HTML text, graphics, other files, photographs, codes, software layout, design forms and the selection and arrangement thereof."
+Nike,NKE,Marketplace,https://www.nike.com/,https://agreementservice.svs.nike.com/us/en_us/rest/agreement?agreementType=termsOfUse&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect,"Be Respectful. You may only use the Services for their intended and authorized purposes. This means that you may not:
+...
+Use any data mining, robots, scraping, or similar data gathering methods to access, use, scrape, or extract content or data from the Services; or"
+Yelp,YELP,Consumer Intelligence,https://www.yelp.com/,https://terms.yelp.com/tos/en_us/20260101_en_us/,"You also represent and warrant that you will not, and will not assist, encourage, or enable others to use the Service to:
+...
+x. Use any robot, spider, Service search/retrieval application, or other automated device, process or means to access, retrieve, copy, scrape, or index any portion of the Service or any Service Content, except as expressly permitted by Yelp (for example, as described at www.yelp.com/robots.txt);"
+TripAdvisor,TRIP,Consumer Intelligence,https://www.tripadvisor.com/,https://tripadvisor.mediaroom.com/us-terms-of-use,"PROHIBITED ACTIVITIES
+
+The Content and information available on and through the Services (including, but not limited to, messages, data, information, text, music, sound, photos, graphics, video, maps, icons, software, code or other material), as well as the infrastructure used to provide such Content and information, is proprietary to the Tripadvisor Companies or licensed to the Tripadvisor Companies by third parties. For all Content other than your Content, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell or re-sell any information, software, products or services obtained from or through the Services. Additionally, you agree not to:
+...
+(ii) access, monitor, reproduce, distribute, transmit, broadcast, display, sell, license, copy or otherwise exploit any Content of the Services, including but not limited to, user profiles and photos, using any robot, spider, scraper or other automated means or any manual process for any purpose not in accordance with this Agreement or without our express written permission;"
